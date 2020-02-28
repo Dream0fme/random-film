@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="sum"></string>
+    <string-array name="cities">
+        <item>Irkutsk</item>
+        <item>Bratsk</item>
+    </string-array>
+
+    <string-array name="films">
+        <item> Начало</item>
+        <item> Джокер </item>
+        <item> Остров собак </item>
+        <item> Паразиты </item>
+        <item> Зверополис </item>
+        <item> За гранью будущего</item>
+        <item> 1917</item>
+        <item> Зеленая книга</item>
+        <item> Человек-паук</item>
+        <item> Интерстелар</item>
+    </string-array>
+</resources>
